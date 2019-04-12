@@ -1,0 +1,33 @@
+[16:54:58 - AWT-EventQueue-0] [Cooja.java:2856] [INFO] - External tools default settings: /external_tools_linux_64.config
+[16:54:58 - AWT-EventQueue-0] [Cooja.java:2886] [INFO] - External tools user settings: /home/dipon/.cooja.user.properties
+[16:55:04 - Thread-0] [Simulation.java:422] [INFO] - Simulation random seed: -8038255513443326556
+[16:55:04 - Thread-0] [CompileContiki.java:140] [INFO] - > make sdn-controller.exp5438 TARGET=exp5438 
+[16:55:04 - Thread-0] [CompileContiki.java:140] [INFO] - > make sdn-udp-client.exp5438 TARGET=exp5438 
+[16:55:05 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/controller/sdn-controller.exp5438
+[16:55:05 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:06 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:06 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:06 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:06 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:06 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:06 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:06 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:06 - Thread-0] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:06 - Thread-0] [Visualizer.java:256] [INFO] - Registered external visualizer: org.contikios.cooja.plugins.skins.DGRMVisualizerSkin
+[16:55:07 - Thread-0] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
+[16:55:47 - Thread-1] [Simulation.java:253] [INFO] - Simulation main loop started, system time: 1555098947917
+[16:55:52 - Thread-1] [Simulation.java:312] [INFO] - Simulation main loop stopped, system time: 1555098952255	Duration: 4338 ms	Simulated time 13119 ms	Ratio 3.024204702627939
+[16:55:55 - Thread-2] [Simulation.java:422] [INFO] - Simulation random seed: -8038255513443326556
+[16:55:55 - Thread-2] [CompileContiki.java:140] [INFO] - > make sdn-controller.exp5438 TARGET=exp5438 
+[16:55:55 - Thread-2] [CompileContiki.java:140] [INFO] - > make sdn-udp-client.exp5438 TARGET=exp5438 
+[16:55:55 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/controller/sdn-controller.exp5438
+[16:55:56 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:56 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:56 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:56 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:56 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:56 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:57 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:57 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:57 - Thread-2] [MspMote.java:235] [INFO] - Loading firmware from: /home/dipon/usdn2/usdn/examples/sdn/node/sdn-udp-client.exp5438
+[16:55:57 - Thread-2] [TimeLine.java:567] [INFO] - Zoom level: 500.0 microseconds/pixel 
